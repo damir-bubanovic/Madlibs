@@ -8,8 +8,6 @@
 Madlibs word substitution game for console / command prompt
 
 
-* Gives Recomendations for password storage software
-
 ## Built With
 
 * [Python](https://www.python.org/) - Backend framework used
